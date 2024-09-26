@@ -1,1 +1,1 @@
-# FSD-ECommerce-Frontend
+# E-commerce Website Landing Page and Item detail page
